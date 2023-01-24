@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Title</title>
+    </head>
+    <body>
+
+  <header>
+    <a href="/" title="Go to home page">
+      <img src="saveetha.jpg" alt="Site logo">
+    </a>
+    <nav>
+      <ul>
+        <li><a href="#">SIMATS DEEMED UNIVERSITY</a></li>
+        <li><a href="#">Arms portel</a></li>
+        <li><a href="#">SAVEETHA INSTITUTE OF MEDICAL AND TECHNICAL SCIENCES</a></li>
+        <li><a href="#">NIRF Ranking 2022: Dental. Saveetha Dental College is ranked 1st among 300+ private and public dental schools by the government of India in 2022. With over 12800+ Scopus® publications; we also stand 2nd on the global scale!</a></li>
+      </ul>
+    </nav>
+    <form role="search" aria-label="site">
+      <label>
+        <span>Search</span>
+        <input type="search"/>
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">SIMATS Scored high marks in Citation QS- World Institutional Rankings by subject.</a></li>
+      <li><a href="#">SIMATS runs 3 NABL accredited labs capable of Biochemical, Bacterial, and Virology testing facilities. We are the principal testing centers for COVID-19.</a></li>
+      <li><a href="#">SIMATS is now a Recognized (SES REC) Institution by the Mahatma Gandhi National Council of Rural Education Department of Higher Education, Ministry of Education Government of India.</a></li>
+      <li><a href="#">Saveetha School of Management SSM a unit of SIMATS-DU has been ranked among the top 5 B schools in Chennai with AA++ scoring.</a></li>
+      <li><a href="#">ISO 2018 : 9001: Our commitment to quality education is reflected in our institution's certification that lasts over 26 years. Our first ISO certification was in 1996.</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <article>
+      <h1>Constituent Institutions</h1>
+      <p>SIMATS was formerly known as Saveetha University, the name has been changed to Saveetha Institute of Medical and Technical Sciences (Deemed to be University) with effect from 30th Nov. 2017 as per the University Grants Commission Letter No.F.5-2017(CPP.I/DU) dated 29th November 2017 and compliance submitted to UGC in our Ref.No, SU/UGC/1971/A1/2017, dated 30.11.2017.</p>
+
+      <h2>CHANCELLOR</h2>
+      <p>Dr. N.M.Veeraiyan was born on 15-11-1947 in Nalligowandanoor, Erode District, and had schooling at Kavandapadi. <article>He is an alumnus of Madras Medical College, one of the premier Institutions of this country. He graduated in Dentistry in 1970. A renowned dental surgeon, Dr. Veeraiyan established a 100 bedded multi-specialty hospital in 1977 and also a School of Nursing for Diploma course, the first of its kind in Erode. </p>
+      <p>A given document can have multiple articles in it; for example, on a blog that shows the text of each article one after another as the reader scrolls, each post would be contained in an <article> element, possibly with one or more <section>s within.</p>
+    </article>
+  </main>
+
+  <aside>
+    <section>
+      <h2>Share</h2>
+      <ul>
+        <li><a href="#">https://www.facebook.com/saveethauni</a></li>
+        <li><a href="#">https://twitter.com/simats_univ?lang=en</a></li>
+        <li><a href="#">enggadmission@saveetha.com</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Admission Contact Details</h2>
+      <ul>
+        <li>
+          <article>
+            <h3><a href="#">University Executives</a></h3>
+            <p>Decentralization with active management participation in our institution is best exemplified in SIMATIC. The organizational hierarchy incorporated into the University’s framework comprises of the Vice Chancellor and Director heading the university and superintending the Registrar and Dean. The Registrar of the University heads a team with Deputy Registrar and Joint Registrar. The Director and Registrar supervise the Deans of all the institutions. Individual institutions have Associate Deans and two heads for every department (Administrative and Academic). The Associate Deans report to the Director and the Dean regarding their designated affairs and head a team of Assistant Deans. The Heads of each Department are in charge of their team of teaching and non-teaching faculty.</p>
+          </article>
+        </li>
+        <li>
+          <article>
+            <h3><a href="#">Registrar(Admin): Dr. D. Dhanasekar</a></h3>
+            <p>One of our absolute artistic, literary, engineering, and scientific academicians with a concrete record of building a network that continues to foster academic innovations, excellent multidisciplinary initiatives, remarkable resource management, and of course advanced research expertise is identified to having inbuilt administrative efficiency to head and assure the smooth functioning of our world-renowned University. The awards and honors the institution (Saveetha School of Engineering) has bagged under his strategic planning and management so far. In addition to his technical and administrative skills, his positive attitude and commitment towards his roles and responsibilities all through his 30+ years of experience are what made him a unique leader today.  Has bagged an ever wondered award Volunteer Core Values Awards 2020 for the category of Teamwork in recognition of outstanding and valued volunteer contribution to the IET's vision and mission as the Chairman, of IET Chennai Local Network which is a feather on his cap. An official attachment established across the Saveetha fraternity is his designated commitment wherein his heart and soul are continuing to pray for the betterment of the fraternity by choice. Inspiring are the leaders from history; so does this Professor indeed....</p>
+          </article>
+        </li>
+      </ul>
+    </section>
+  </aside>
+
+  <footer>
+    <ul>
+      <li><a href="#">https://www.saveetha.com</a></li>
+      <li><a href="#">https://arms.sse.saveetha.com</a></li>
+      <li><a href="#">https://www.saveetha.ac.in</a></li>
+      <li><a href="#">https://saveethaengineering.com</a></li>
+      <li><a href="#">https://en.wikipedia.org/wiki/Saveetha_Institute_of_Medical_And_Technical_Sciences</a></li>
+    </ul>
+  </footer>
+
+</body>
+</html>
